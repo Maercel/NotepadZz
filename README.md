@@ -10,7 +10,7 @@ I will not be replacing it with my other text editors, since it's too simple.
 # How to Use the Search Feature 🔎
 To initiate a text search, press **CTRL + F** and enter the word you're looking to find.
 
-# Screenshots
+# Screenshots 📸
 **NotepadZz in Action:**
 ![NotepadZz_example](https://github.com/Maercel/NotepadZz/assets/71663681/2dc437ec-52cb-4ff3-9904-be1d6ba633e0)
 
