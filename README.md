@@ -1,10 +1,13 @@
 # NotepadZz
 Notepad application build with Qt framework that includes a feature to **search through** the text.
 
-# Why write this text editor?
-I recently started getting started with Qt, this is my first Qt project, the first C++ project, and the first project in my life. I hope to develop my skills through this project.
+# Why did I write this text editor?
+I recently started with Qt development, and this is my first Qt project. 
+During development of **NotepadZz** I learned a lot, but I believe there is still a lot more to learn. 
 
-I'm not going to use this as a replacement for my other text editors because it's too simple and I am too poor :)
+I will not be replacing it with my other text editors, since it's too simple. 
+
+# ScreenShots
 
 ![NotepadZz_example](https://github.com/Maercel/NotepadZz/assets/71663681/2dc437ec-52cb-4ff3-9904-be1d6ba633e0)
 
