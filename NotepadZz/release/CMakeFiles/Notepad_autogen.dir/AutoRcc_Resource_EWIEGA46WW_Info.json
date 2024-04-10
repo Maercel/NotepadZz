@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "C:/Users/Marcel/Desktop/NotepadZz/release/Notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Marcel/Desktop/NotepadZz/release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Marcel/Desktop/NotepadZz/release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Marcel/Desktop/NotepadZz",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Marcel/Desktop/NotepadZz",
+	"INCLUDE_DIR" : "C:/Users/Marcel/Desktop/NotepadZz/release/Notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Marcel/Desktop/NotepadZz/img/redo.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/darktheme.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/exit.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/save.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/open.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/add-file.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/print.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/about.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/undo.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/save_better.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/copy.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/font.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/paste.png",
+		"C:/Users/Marcel/Desktop/NotepadZz/img/cut.png"
+	],
+	"LOCK_FILE" : "C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/QtOpenSource/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Marcel/Desktop/NotepadZz/Resource.qrc",
+	"VERBOSITY" : 0
+}
