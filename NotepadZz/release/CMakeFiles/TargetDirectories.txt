@@ -1,0 +1,9 @@
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/Notepad.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/edit_cache.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/rebuild_cache.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/list_install_components.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/install.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/install/local.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/install/strip.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/Notepad_autogen_timestamp_deps.dir
+C:/Users/Marcel/Desktop/NotepadZz/release/CMakeFiles/Notepad_autogen.dir
