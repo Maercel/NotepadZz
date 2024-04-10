@@ -12,7 +12,10 @@ To initiate a text search, press **CTRL + F** and enter the word you're looking 
 
 # Screenshots 📸
 **NotepadZz in Action:**
-![NotepadZz_example](https://github.com/Maercel/NotepadZz/assets/71663681/2dc437ec-52cb-4ff3-9904-be1d6ba633e0) ![NotepadZz example](https://github.com/Maercel/NotepadZz/assets/71663681/de191c16-8c16-4e2a-965f-6d77fcdbc5b8)
+<p align="center">
+  <img src="https://github.com/Maercel/NotepadZz/assets/71663681/2dc437ec-52cb-4ff3-9904-be1d6ba633e0" width="400" />
+  <img src="https://github.com/Maercel/NotepadZz/assets/71663681/de191c16-8c16-4e2a-965f-6d77fcdbc5b8" width="400" />
+</p>
 
 
 **Search Feature:**
