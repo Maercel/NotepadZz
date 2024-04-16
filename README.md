@@ -22,8 +22,8 @@ To initiate a text search, press **CTRL + F** and enter the word you're looking 
     <td align="center"><strong>Light Theme:</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Maercel/NotepadZz/assets/71663681/de191c16-8c16-4e2a-965f-6d77fcdbc5b8" alt="Dark Theme" style="max-width: 100%;"></td>
     <td><img src="https://github.com/Maercel/NotepadZz/assets/71663681/2dc437ec-52cb-4ff3-9904-be1d6ba633e0" alt="Light Theme" style="max-width: 100%;"></td>
+    <td><img src="https://github.com/Maercel/NotepadZz/assets/71663681/de191c16-8c16-4e2a-965f-6d77fcdbc5b8" alt="Dark Theme" style="max-width: 100%;"></td>
   </tr>
 </table>
       
