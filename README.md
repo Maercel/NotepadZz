@@ -3,16 +3,22 @@
 
 Notepad application build with Qt framework that includes a feature to **search through** the text.
 
-# Why did I write this text editor? ❓
+---
+
+## Why did I write this text editor? ❓
 I recently started with Qt development, and this is my first Qt project. 
 During development of **NotepadZz** I learned a lot, but I believe there is still a lot more to learn. 
 
 I will not be replacing it with my other text editors, since it's too simple. 
 
-# How to Use the Search Feature 🔎
+---
+
+## How to Use the Search Feature 🔎
 To initiate a text search, press **CTRL + F** and enter the word you're looking to find.
 
-# Screenshots 📸
+---
+
+## Screenshots 📸
 <table>
   <tr> 
     <td align="center" colspan="2"><strong>NotepadZz in Action:</strong></td>
@@ -37,5 +43,7 @@ To initiate a text search, press **CTRL + F** and enter the word you're looking 
   </tr>
 </table>
 
-# Project Outlook 🔭
+---
+
+## Project Outlook 🔭
 This may be the final version of **NotepadZz** due to other commitments. However, the experience has been amazing, and I look forward to creating more **advanced applications** in Qt and other languages.
